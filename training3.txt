@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+training3ke3 ayo semangat
+=======
+training3
+>>>>>>> parent of 7cfcae8 (training3.txt)
